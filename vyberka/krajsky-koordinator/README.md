@@ -35,7 +35,7 @@ Pokud sympatizuješ s Piráty a zároveň si chceš i trochu přivydělat, je to
 ## Požadujeme:
 
 * filosofické ztotožnění se s [Pirátským programem][program] a jeho dobrá znalost, 
-* vysoká loajalitu k Pirátské straně jako organizaci, zodpovědnost při nakládání s penězi, dodržování bezpečnostních pravidel a mlčenlivost ohledně důvěrných informací,
+* vysoká loajalita k Pirátské straně jako organizaci, zodpovědnost při nakládání s penězi, dodržování bezpečnostních pravidel a mlčenlivost ohledně důvěrných informací,
 * závazek pracovat pro Piráty aspoň do konce října 2017 (parlamentní volby), případně za sebe najít a na vlastní náklady zaučit náhradu,
 * znalost kancelářských balíků a google tabulek, schopnost naučit se používat [Pirátský redmine][redmine] a [Pirátské fórum][forum] a další technické systémy,
 * vynikající komunikační dovednosti i po telefonu, reprezentativní a příjemné vystupování, systematičnost, samostatnost, emoční stabilita a pracovitost, dobrý písemný projev,
@@ -43,7 +43,7 @@ Pokud sympatizuješ s Piráty a zároveň si chceš i trochu přivydělat, je to
 * schopnost plánování, samostatnost a svědomitost,
 * osobní zkušenost s dobrovolnickou prací v libovolné podobě je výhodou,
 * nabídka je otevřená pro lidi vyskytující se na území daného kraje,
-* nástup nejpozději dvou měsíců ode dne vyhlášení výběrového řízení
+* nástup nejpozději do dvou měsíců ode dne vyhlášení výběrového řízení
 
 Výhodou jsou: schopnost pracovat v březnu až říjnu 2017 další čas (např. i 40 hodin týdně a více), zkušenosti s vlastním dobrovolnictvím, řidičský průkaz skupiny B, znalost angličtiny, zkušenosti s dobrovolnictvím
 
@@ -73,7 +73,7 @@ Rizikové faktory: Pokud máš nedejbože záznam v trestním rejstříku, jsi t
 
 Poptávaná činnost může být dodána jako služba živnostníkem (na IČO) či můžeme na tuto činnost přijmout zaměstnance (DPP, DPČ) – v takovém případě zahrnuje výše avizovaná částka i všechny odvody na straně zadavatele, skutečná částka vyplacená zaměstnanci tedy bude nižší. Na zadání bude sepsán standardní zadávací list podle [podmínek pro placené úkoly](https://www.pirati.cz/rules/ppu) s vykazováním v systémů [redmine][redmine].
 
-**Nabídku nám prosím zašli do 20. 11. 2016, do tří dnů se ti ozveme ohledně výsledku výběrového řízení nebo dalšího postupu. Pohovory s pozvanými uchazeči budou v období 22.-25. 11. 2016.  Nabídku pošli e-mailem na adresu zadavatele. Kopii potom na <info@pirati.cz>.**
+**Nabídku nám prosím zašli do 20. 11. 2016, do tří dnů od uzávěrky se ti ozveme ohledně výsledku výběrového řízení nebo dalšího postupu. Pohovory s pozvanými uchazeči budou v období 22.-25. 11. 2016.  Nabídku pošli e-mailem na adresu zadavatele. Kopii potom na <info@pirati.cz>.**
 
 ## Hodnocení nabídek
 
