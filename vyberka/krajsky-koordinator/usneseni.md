@@ -16,15 +16,15 @@ Záměr zřídit krajské koordinátory dobrovolníků byl diskutován na jedná
 Rozpočet projektu
 -----------------
 
-Střední roční náklady činí 120 tis. Kč na jednoho koordinátora (z rozpočtu administrativního odboru Pirátské strany) při měsíční smluvní odměně cca 8 tis. Kč v pevné složce (nárokovatelné poměrně vzhledem k rozsahu práce) a až 5 tis. Kč úkolové odměny (odhadována střední částka 2 tis. Kč). Jde tedy o podobný systém odměňování podobný u celopražských Pirátských zastupitelů (viz [metodika][metodika]). V předvolební době lze očekávat nárůst odměny až na cca 15 tis. Kč měsíčně na jednoho koordinátora. 
+Střední roční náklady činí 120 tis. Kč na jednoho koordinátora (z rozpočtu personálního odboru Pirátské strany) při měsíční smluvní odměně cca 8 tis. Kč v pevné složce (nárokovatelné poměrně vzhledem k rozsahu práce) a až 5 tis. Kč úkolové odměny (odhadována střední částka 2 tis. Kč). Jde tedy o podobný systém odměňování podobný u celopražských Pirátských zastupitelů (viz [metodika][metodika]). V předvolební době lze očekávat nárůst odměny až na cca 15 tis. Kč měsíčně na jednoho koordinátora. 
 
 [metodika]: https://redmine.pirati.cz/projects/kspraha/wiki/Odm%C4%9B%C5%88ov%C3%A1n%C3%AD 
 
-Koordinátoři budou (vedle asistence krajským předsednictvům) centrálně řízeni personálním odborem, z jehož rozpočtu budou placeni. Prostředky pro odměnu budou do rozpočtu personálního odboru získány dílem z peněz účelově určených krajskému sdružení v krajském rozpočtu (prostřednictvím úhrady tzv. sdílené služby), dílem z celostátních peněz. Konkrétní poměr dotace bude stanovena u jednotlivých krajů v návaznosti na jejich disponibilní prostředky, a to spolu s rozpočtem na rok 2017 a v návaznosti na zjistěný odhad výsledků hospodaření za rok 2016. Výše dotace bude předložena republikovému výboru. Jde o to, aby měla koordinátora i nejmenší sdružení, která nemají dostatečně velký rozpočet, naopak u rozpočtově silných sdružení není třeba dotace tak velká. Na druhou stranu právě tato rozvinutá sdružení (krajské sdružení Praha, Jihomoravský kraj, Karlovarský kraj),  by mohla být mezistupněm v řízení personálního odboru. 
+Koordinátoři budou (vedle asistence krajským předsednictvům) centrálně řízeni personálním odborem, z jehož rozpočtu budou placeni. Prostředky pro odměnu budou do rozpočtu personálního odboru získány dílem z peněz účelově určených krajskému sdružení v krajském rozpočtu (prostřednictvím úhrady tzv. sdílené služby) a dílem z celostátních peněz. Konkrétní poměr dotace bude stanoven u jednotlivých krajů v návaznosti na jejich disponibilní prostředky, a to spolu s rozpočtem na rok 2017 a v návaznosti na zjistěný odhad výsledků hospodaření za rok 2016. Výše dotace bude předložena republikovému výboru. Jde o to, aby měla koordinátora i nejmenší sdružení, která nemají dostatečně velký rozpočet, naopak u rozpočtově silných sdružení není třeba dotace tak velká. Na druhou stranu právě tato rozvinutá sdružení (krajské sdružení Praha, Jihomoravský kraj, Karlovarský kraj),  by mohla být mezistupněm v řízení personálního odboru. 
 
-Z hlediska administrativy se mi jeví nejjednodušší, aby žádosti o proplacení u všech koordinátorů podával najednou personální odbor, čímž bude krajskému sdruženímu ulehčena administrativa a zároveň bude zajištěno, že si koordinátor nebude proplácet peníze sám sobě. Rovněž tak bude zajištěno, že příjem bude řádně zdaněn a budou zaplaceny odvody, pokud půjde o zaměstnance (vyžaduje mzdovou účetní), a že odměnu dostanou lidé včas. Rovněž bude zajištěna hromadná úhrada telefonů. Svěření personální agendy jednomu orgánu uvnitř organizace je [osvědčené](https://managementmania.com/cs/personalistika-a-lidske-zdroje) a efektivní. 
+Z hlediska administrativy se mi jeví nejjednodušší, aby žádosti o proplacení u všech koordinátorů podával najednou personální odbor, čímž bude krajskému sdružení ulehčena administrativa a zároveň bude zajištěno, že si koordinátor nebude proplácet peníze sám sobě. Rovněž tak bude zajištěno, že příjem bude řádně zdaněn a budou zaplaceny odvody, pokud půjde o zaměstnance (vyžaduje mzdovou účetní), a že odměnu dostanou lidé včas. Rovněž bude zajištěna hromadná úhrada telefonů. Svěření personální agendy jednomu orgánu uvnitř organizace je [osvědčené](https://managementmania.com/cs/personalistika-a-lidske-zdroje) a efektivní. 
 
-Výši proměnlivé složky odměny by navrhovalo krajské předsednictvo, pevná složka by byla spočtena podle vykázaných hodin. Z rozpočtu krajského sdružení by byly peníze strženy jako u úhrady sdílené služby (viz návrh organizačního řádu). Zároveň tím bude uspíšeno využití disponibilních krajských rozpočtů, které dosud nebyly použity a činnost v krajském sdružení zanikla. 
+Výši proměnlivé složky odměny by navrhovalo krajské předsednictvo, pevná složka by byla spočtena podle vykázaných hodin. Z rozpočtu krajského sdružení by byly peníze strženy jako u úhrady sdílené služby (viz návrh organizačního řádu). Zároveň tím bude uspíšeno využití disponibilních krajských rozpočtů, které dosud nebyly použity a v jejichž krajském sdružení činnost zanikla. 
 
 Dopad na rozpočet 2016:
 
@@ -32,13 +32,13 @@ Očekáváme, že koordinátoři budou pro Piráty pracovat dlouhodobě, přiče
 
 Dopad na rozpočet 2017:
 
-V roce 2017 očekáváme rozpočtové náklady průměrně 145 tis. Kč na jednoho koordinátora (do října 2016 jde o částku 125 tis. Kč), tj. cca 2,03 milionu Kč (tj. do října 2016 jde o částku 1,75 mil. Kč). K tomu je třeba připočíst náklady na telefon cca 70 tis. Kč.
+V roce 2017 očekáváme rozpočtové náklady průměrně 145 tis. Kč na jednoho koordinátora (do října 2016 jde o částku 125 tis. Kč), tj. cca 2,03 milionu Kč (tedy do října 2016 jde o částku 1,75 mil. Kč). K tomu je třeba připočíst náklady na telefon cca 70 tis. Kč.
 
 Za podmínek uvedených ve vnitřních předpisech může být schválena i mimořádná odměna (např. při přesčasech či splnění mimořádně náročného úkolu, které by vedly k jednorázovému zvýšení odměny nad dohodnuté měsíční rozmezí).
 
 [podbor]: https://www.pirati.cz/fo/hospodareni2016/rozpocty/strana/212600003
 
-Z hlediska vnitrostranických předpisů se jedná o 15 záměrů v rozpočtových jednotkách Česká pirátská strana a jednotlivých krajských sdruženích ([§ 10 pravidel hospodaření][prah]), které se schvalují na dobu neurčitou s náklady určenými měsíční odměnou. Vzhledem k tomu, že jde o nevýznamnější rozhodnutí v historii České pirátské strany z hlediska organizace, navrhujeme ho upravit komplexním usnesením republikového výboru.
+Z hlediska vnitrostranických předpisů se jedná o 15 záměrů v rozpočtových jednotkách Česká pirátská strana a jednotlivých krajských sdruženích ([§ 10 pravidel hospodaření][prah]), které se schvalují na dobu neurčitou s náklady určenými měsíční odměnou. Vzhledem k tomu, že jde o nejvýznamnější rozhodnutí v historii České pirátské strany z hlediska organizace, navrhujeme ho upravit komplexním usnesením republikového výboru.
 
 [prah]: https://www.pirati.cz/rules/prah
 
@@ -64,16 +64,16 @@ Součástí záměru je 14 výběrových řízení nad 50 000 Kč, která budou 
 * člen celostátního personálního odboru - odborník na personalistiku
 * zástupce jmenovaný krajským předsednictvem - odborník na administrativu
 
-Ve jmenované hodnotící komisi by měli být podle [§ 6 odst. 2 pravidel hospodaření](https://www.pirati.cz/rules/prah#vyberova_rizeni) aspoň 3 odborníci. Bude-li krajské sdružení nečinné, přebírá jeho pravomoci republikového předsednictvo.
+Ve jmenované hodnotící komisi by měli být podle [§ 6 odst. 2 pravidel hospodaření](https://www.pirati.cz/rules/prah#vyberova_rizeni) aspoň 3 odborníci. Bude-li krajské sdružení nečinné, přebírá jeho pravomoci republikové předsednictvo.
 
 Výběrové řízení se bude řídit následujícími dokumenty, které jsou přílohou tohoto záměru:
 
 * [Inzerát na celostátního asistenta pro administrativu](README.md)
 * [Pravidla výběrového řízení](pravidla.md)
 
-Smlouva bude uzavřena prostřednictvím zadávacího listu podle [podmínek pro placené úkoly](https://github.com/pirati-cz/sablony/blob/4b07ba675434ee634c527909d537122264cc712e/ukoly/podminky/podminky.md), přičemž smluvní typ se bude určen podle požadavku vybraného uchazeče.
+Smlouva bude uzavřena prostřednictvím zadávacího listu podle [podmínek pro placené úkoly](https://github.com/pirati-cz/sablony/blob/4b07ba675434ee634c527909d537122264cc712e/ukoly/podminky/podminky.md), přičemž smluvní typ bude určen podle požadavku vybraného uchazeče.
 
-V úvahu také připadá, aby se nejvýše 2 krajská sdružení dohodla, že budou konat společné výběrové řízení (rozsah práce u takového výběrového řízení bude dvojnásobný). Krajská sdružení se tak mohou domluvit i po výsledku výběrového řízení (např. v jednom výběrovém řízení nebude kandidát doporučen a v druhém bude schopný kandidát, který to bude moci dělat).
+V úvahu také připadá, aby se nejvýše 2 krajská sdružení dohodla, že budou konat výběrové řízení společné (rozsah práce u takového výběrového řízení bude dvojnásobný). Krajská sdružení se tak mohou domluvit i po výsledku výběrového řízení (např. v jednom výběrovém řízení nebude kandidát doporučen a v druhém bude schopný kandidát, který to bude moci dělat).
 
 Personální odbor dále přijme dodatečná pravidla pro efektivní organizaci, např. pověří 2 koordinátory dodatečnými úkoly související s organizací koordinátorů (např. jeden určený koordinátor pro Čechy a jeden určený koordinátor pro Moravu a Slezsko). Vedle toho je v příslušné oblasti bude metodicky vést celostátní vedení. 
 
